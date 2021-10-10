@@ -1,9 +1,8 @@
 # Horiseon
 This Repository is intended as a codebase for Horiseon Social Solution Services, a marketing agency, that is optimized for search engines by meeting accessibility standards.
 URL: http://127.0.0.1:5500/index.html#social-media-marketing
-```md
-![alt text](assets/images/Horiseon-Landing-Page.png/)
-```
+![Horiseon-Landing-Page](https://user-images.githubusercontent.com/90635812/136713370-2e97de84-9f5b-490f-a379-8d636f913187.png)
+
 MIT License
 
 Copyright (c) [2021] [Horiseon]
